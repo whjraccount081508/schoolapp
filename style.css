@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
